@@ -1,0 +1,12 @@
+services:
+  jupyter:
+    image: jupyter/base-notebook:python-3.11
+    container_name: agente_dev
+    ports:
+      - "8888:8888"
+      - "8501:8501"
+    volumes:
+      - "./:/home/agente/work"
+      - "../data:/home/agente/work/data"
+    working_dir: /home/agente/work
+    command:  start-notebook.sh --NotebookApp.token=''
