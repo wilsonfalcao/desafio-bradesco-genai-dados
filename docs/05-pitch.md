@@ -47,4 +47,4 @@ Estudo baseado em análise própria e enriquecido através dos artigos:
 
 > Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
 
-[Link do vídeo]
+[Click e assista agora](https://drive.google.com/file/d/1xrC1mmczeHYPqWbIbhxyYjU6DTC0wKgk/view)
